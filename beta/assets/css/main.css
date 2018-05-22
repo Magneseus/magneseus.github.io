@@ -4919,7 +4919,6 @@ cite {
 
 .post_banner_vid {
     muted="true";
-    preload="none";
     loop;
     autoplay;
     width: 100%;
@@ -4930,7 +4929,6 @@ cite {
 
 .post_thumb_vid {
     muted="true";
-    preload="none";
     loop;
     width: 100%;
     vertical-align: middle;
@@ -4953,7 +4951,6 @@ cite {
 
 .post_body_vid {
     muted="true";
-    preload="none";
     loop;
     autoplay;
     background-color: #ffffff;
