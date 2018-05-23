@@ -4930,6 +4930,7 @@ cite {
 .post_thumb_vid {
     muted="true";
     loop;
+    preload="auto";
     width: 100%;
     vertical-align: middle;
     background-color: #262626;
