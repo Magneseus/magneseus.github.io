@@ -4918,7 +4918,7 @@ cite {
 }
 
 .post_banner_vid {
-    muted="true";
+    muted;
     loop;
     autoplay;
     width: 100%;
@@ -4928,7 +4928,7 @@ cite {
 }
 
 .post_thumb_vid {
-    muted="true";
+    muted;
     loop;
     preload="auto";
     width: 100%;
@@ -4951,7 +4951,7 @@ cite {
 }
 
 .post_body_vid {
-    muted="true";
+    muted;
     loop;
     autoplay;
     background-color: #ffffff;
